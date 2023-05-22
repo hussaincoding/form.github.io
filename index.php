@@ -15,7 +15,7 @@
             <input type="Email" name="userEmail" placeholder="Email" required>
             <label for="Password"></label>
             <input type="password" name="user_Password" placeholder="password" id="" required>
-            <input type="submit" name="">
+            <input type="submit" name="submit">
         </div>
     </form>
     <script>
